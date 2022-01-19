@@ -1,0 +1,1 @@
+from project.serializers.persons_serializer import PersonSerializer
